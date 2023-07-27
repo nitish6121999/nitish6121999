@@ -9,5 +9,4 @@ Data Science Enthusiast
 - 🔭 I’m currently working on Machine Learning and Deep learning projects.
 - 🌱 I’m currently learning Deep learning and NLP techniques.
 - 💬 Ask me about Machine Learning, Deep Learning, DataScience, Basketball.
-- 📫 How to reach me: 7022605655.
 
