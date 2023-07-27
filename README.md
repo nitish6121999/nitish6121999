@@ -5,7 +5,7 @@ Data Science Enthusiast
 "Exploring the world of data and unlocking its insights."
 -----------------------
 
-| Python | SQL | Tableau | Machine Learning | Deep Learning | NLP
+| Python | SQL | Tableau | Machine Learning | Deep Learning | NLP |
 -----------------------
 
 * 🌍  I'm based in Bangalore,India
