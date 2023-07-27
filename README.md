@@ -18,7 +18,7 @@ Data Science Enthusiast
 <p align="left">
 <a href="https://www.linkedin.com/in/nitish-naik-ab298b227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nitish-naik-ab298b227" height="30" width="40" /></a>
 <a href="https://instagram.com/nitish612199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitish612199" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/nitish6121999?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/nitish6121999?hr_r=1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nitish6121999?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/nitish6121999?hr_r=1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
