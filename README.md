@@ -1,7 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nitish N Naik
 =====================================================================================================================================
 
-Data Science Enthusiast
+Data Science Enthusiast 
+"Exploring the world of data and unlocking its insights."
+-----------------------
+
+| Python | SQL | Tableau | Machine Learning | Deep Learning | NLP
 -----------------------
 
 * 🌍  I'm based in Bangalore,India
